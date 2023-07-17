@@ -24,7 +24,8 @@ output.json
 *.keystore
 
 # Google Services (e.g. APIs or Firebase)
-google-services.json
+# You should let android get the google-services.json file to success auth with firebase services
+#google-services.json
 
 # Android Profiling
 *.hprof
